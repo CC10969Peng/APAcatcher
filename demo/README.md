@@ -5,7 +5,7 @@ Files included:
 
 1. **sample1.bam**, **sample2.bam**, **sample3.bam**  
    - BAM files containing reads aligned to a limited set of genes:  
-     *PRICKLE1, NUP107, SUPT6H, PROCA1, and CDC6*.  
+     *PRICKLE1, NUP107, SUPT6H, PROCA1, NUDT21, and CDC6*.  
    - These subsets are provided solely to facilitate testing and demonstration, and do not represent complete transcriptome data.  
 
 2. **RefSeq_UTR_final.bed**  
