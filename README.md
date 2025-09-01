@@ -186,8 +186,8 @@ python process_last.py \
 
 ```
 # chr   start     end       cluster_size  gene%%transcript_number  strand
-chr1   944201    944201    4             NOC2L%%1          -
-chr1   965721    965721    2             KLHL17%%1         +
+chr1   944201    944201    4              NOC2L%%1                 -
+chr1   965721    965721    2              KLHL17%%1                +
 …
 ```
 
